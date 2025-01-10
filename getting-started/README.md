@@ -40,6 +40,9 @@ Here is a quick step-by-step guide for customers using Papaya:
 
 * **Select Papaya at Checkout**\
   When you’re ready to pay or subscribe, choose Papaya as your payment method.
+
+<figure><img src="../.gitbook/assets/чекаут.png" alt=""><figcaption></figcaption></figure>
+
 * **Connect Your Wallet**\
   Connect your wallet (e.g., MetaMask, WalletConnect, or another supported option).
 
@@ -62,6 +65,8 @@ Here is a quick step-by-step guide for customers using Papaya:
 
 * **Cancel Subscription**\
   Should you no longer need the service, cancel your subscription at any time to stop any future charges.
+
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FcrhGDzgi59PyfFaJtlVP%2Fuploads%2FXWVWlfuyYBAvyprgdN5P%2FStream%20Revoking.mp4?alt=media&token=6937d22f-6357-4e2e-b5aa-148625af8386" %}
 
 ***
 

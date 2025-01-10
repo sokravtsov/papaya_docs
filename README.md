@@ -15,7 +15,7 @@ Papaya is an infrastructure for stablecoin payments that enables businesses to a
 
 ### **How It Works**
 
-[![Alt text](https://img.youtube.com/vi/yCjFPkwFCM0/0.jpg)](https://www.youtube.com/watch?v=yCjFPkwFCM0)
+{% embed url="https://youtu.be/Z_qZshl9hnY?si=PaArGF7U65l4QhpQ" %}
 
 #### **For Businesses**
 

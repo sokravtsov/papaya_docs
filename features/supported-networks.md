@@ -17,7 +17,7 @@ Papaya is deployed on the following major blockchain networks:
 * Scroll
 * zkSync
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-01-08 at 17.51.22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tokens.png" alt=""><figcaption></figcaption></figure>
 
 ***
 

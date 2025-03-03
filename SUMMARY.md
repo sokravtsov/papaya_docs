@@ -25,7 +25,7 @@
 * [Common Methods](protocol/common-methods.md)
 * [Recurring Payments](protocol/recurring-payments.md)
 * [Subscription Methods](protocol/subscription-methods.md)
-* [Auto Refill](protocol/auto-refill.md)
+* [Auto Top-up](protocol/auto-top-up.md)
 * [Liquidations](protocol/liquidations.md)
 * [Fees](protocol/fees.md)
 * [Advanced Section](protocol/advanced-section/README.md)

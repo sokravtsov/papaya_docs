@@ -1,9 +1,9 @@
 # Auto Top-up
 
-Papaya protocol implements an automatic balance top-up feature. It works as follows: at the moment of liquidation—when your expenses exceed your income—the liquidator first attempts to top up your balance by the amount necessary to cover your subscriptions for one month in advance.&#x20;
-
 <figure><img src="../.gitbook/assets/Refill.png" alt=""><figcaption></figcaption></figure>
 
+Papaya protocol implements an automatic balance top-up feature. It works as follows: at the moment of liquidation—when your expenses exceed your income—the liquidator first attempts to top up your balance by the amount necessary to cover your subscriptions for one month in advance. \
+\
 This functionality relies on the allowance mechanism of the ERC-20 standard. After that, two scenarios are possible:
 
 &#x20;1\. Auto top-up succeeds. If your balance is successfully replenished with the missing funds for the next month, the liquidator’s transaction fee is deducted from this amount—no extra funds are taken.

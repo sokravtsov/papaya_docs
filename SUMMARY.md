@@ -22,12 +22,12 @@
 
 ## Protocol
 
-* [Overview](protocol/overview.md)
-* [Core Functions](protocol/core-functions/README.md)
-  * [Deposit & Withdraw](protocol/core-functions/deposit-and-withdraw.md)
-  * [Subscription Management](protocol/core-functions/subscription-management.md)
-  * [Payment & Streaming](protocol/core-functions/payment-and-streaming.md)
-  * [Liquidation](protocol/core-functions/liquidation.md)
+* [Overview](protocol/fees.md)
+* [Core Functions](protocol/advanced-section/README.md)
+  * [Deposit & Withdraw](protocol/advanced-section/events.md)
+  * [Subscription Management](protocol/advanced-section/subscriptions.md)
+  * [Payment & Streaming](protocol/advanced-section/projects.md)
+  * [Liquidation](protocol/advanced-section/signatures.md)
 * [Project Management](protocol/project-management.md)
 * [Advanced Features](protocol/advanced-features/README.md)
   * [BySig Operations](protocol/advanced-features/bysig-operations.md)

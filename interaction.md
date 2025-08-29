@@ -12,8 +12,8 @@ For user convenience, Papaya supports integration with all existing wallets thro
 By abstract, we mean that no new tokens are created; instead, we mimic the token. This allows you to add Papaya as a token to your wallet and track your balance seamlessly.
 {% endhint %}
 
-{% content-ref url="protocol/core-functions/subscription-management.md" %}
-[subscription-management.md](protocol/core-functions/subscription-management.md)
+{% content-ref url="protocol/advanced-section/subscriptions.md" %}
+[subscriptions.md](protocol/advanced-section/subscriptions.md)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}

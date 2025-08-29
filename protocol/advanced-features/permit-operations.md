@@ -32,6 +32,6 @@ await papayaContract.permitAndCall(permitData, actionData, {
 
 ### Related Errors
 
-* [WrongSignature](broken-reference): When permit signature is invalid
-* [DeadlineExceeded](broken-reference): When permit has expired
-* [Permit2TransferAmountTooHigh](broken-reference): When permit2 transfer amount is too high
+* [WrongSignature](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#wrongsignature): When permit signature is invalid
+* [DeadlineExceeded](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#deadlineexceeded): When permit has expired
+* [Permit2TransferAmountTooHigh](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#permit2transferamounttoohigh): When permit2 transfer amount is too high

@@ -95,12 +95,12 @@ await papayaContract.setSettingsForUser(
 
 ### Related Events
 
-* [ProjectIdClaimed](broken-reference): Emitted when a project ID is claimed
-* [SetDefaultSettings](broken-reference): Emitted when default settings are updated
-* [SetSettingsForUser](broken-reference): Emitted when user settings are updated
+* [ProjectIdClaimed](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/project-events#projectidclaimed): Emitted when a project ID is claimed
+* [SetDefaultSettings](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/project-events#setdefaultsettings): Emitted when default settings are updated
+* [SetSettingsForUser](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/project-events#setsettingsforuser): Emitted when user settings are updated
 
 ### Related Errors
 
-* [InvalidProjectId](broken-reference): When project ID is invalid
-* [AccessDenied](broken-reference): When caller doesn't have permission to set settings
-* [WrongPercent](broken-reference): When fee percentage is invalid
+* [InvalidProjectId](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#invalidprojectid): When project ID is invalid
+* [AccessDenied](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#accessdenied): When caller doesn't have permission to set settings
+* [WrongPercent](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#wrongpercent): When fee percentage is invalid

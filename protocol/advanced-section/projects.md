@@ -34,9 +34,10 @@ await papayaContract.permitAndCall(permitData, actionData, {
 
 ### Related Events
 
-* [Transfer](broken-reference): Emitted when tokens are transferred during streaming
+* [Transfer](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/core-events#transfer): Emitted when tokens are transferred during streaming
 
 ### Related Errors
 
-* [WrongSignature](broken-reference): When permit signature is invalid
-* [DeadlineExceeded](broken-reference): When permit has expired
+* [WrongSignature](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#wrongsignature): When permit signature is invalid
+* [DeadlineExceeded](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#deadlineexceeded): When permit has expired
+

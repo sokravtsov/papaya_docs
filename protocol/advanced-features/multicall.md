@@ -36,4 +36,4 @@ const results = await papayaContract.multicall(calls);
 
 ### Related Errors
 
-* [FailedCall](broken-reference): When any of the multicall operations fail
+* [FailedCall](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#failedcall): When any of the multicall operations fail

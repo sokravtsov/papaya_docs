@@ -29,9 +29,9 @@ await papayaContract.liquidate("0xunderfunded...");
 
 ### Related Events
 
-* [Liquidated](broken-reference): Emitted when an account is liquidated
+* [Liquidated](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/core-events#liquidated): Emitted when an account is liquidated
 
 ### Related Errors
 
-* [NotLiquidatable](broken-reference): When the account cannot be liquidated
-* [InsufficientBalance](broken-reference): When the account has insufficient balance for liquidation
+* [NotLiquidatable](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#notliquidatable): When the account cannot be liquidated
+* [InsufficientBalance](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#insufficientbalance): When the account has insufficient balance for liquidation

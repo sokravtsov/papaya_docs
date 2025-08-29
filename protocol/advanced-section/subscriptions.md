@@ -60,11 +60,11 @@ await papayaContract.unsubscribe("0xauthor...");
 
 ### Related Events
 
-* [StreamCreated](broken-reference): Emitted when a subscription is created
-* [StreamRevoked](broken-reference): Emitted when a subscription is cancelled
+* [StreamCreated](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/subscription-events#streamcreated): Emitted when a subscription is created
+* [StreamRevoked](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/subscription-events#streamrevoked): Emitted when a subscription is cancelled
 
 ### Related Errors
 
-* [NotSubscribed](broken-reference): When trying to unsubscribe from a non-existent subscription
-* [ExcessOfRate](broken-reference): When subscription rate exceeds limits
-* [ExcessOfSubscriptions](broken-reference): When user has too many active subscriptions
+* [NotSubscribed](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#notsubscribed): When trying to unsubscribe from a non-existent subscription
+* [ExcessOfRate](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#excessofrate): When subscription rate exceeds limits
+* [ExcessOfSubscriptions](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#excessofsubscriptions): When user has too many active subscriptions

@@ -38,5 +38,5 @@ const result = await papayaContract.sponsoredCall(
 
 ### Related Errors
 
-* [FailedCall](broken-reference): When the sponsored call fails
-* [SafeTransferFailed](broken-reference): When token transfer fails
+* [FailedCall](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#failedcall): When the sponsored call fails
+* [SafeTransferFailed](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#safetransferfailed): When token transfer fails

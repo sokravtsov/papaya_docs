@@ -133,6 +133,6 @@ await papayaContract.useBySigUniqueNonce(12345);
 
 ### Related Errors
 
-* [WrongSignature](broken-reference): When signature is invalid
-* [WrongNonce](broken-reference): When nonce is incorrect
-* [WrongNonceType](broken-reference): When nonce type is invalid
+* [WrongSignature](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#wrongsignature): When signature is invalid
+* [WrongNonce](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#wrongnonce): When nonce is incorrect
+* [WrongNonceType](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#wrongnoncetype): When nonce type is invalid

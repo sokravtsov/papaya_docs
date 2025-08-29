@@ -168,11 +168,11 @@ await papayaContract.rescueFunds(
 
 ### Related Events
 
-* [Refill](broken-reference): Emitted when funds are deposited
-* [Transfer](broken-reference): Emitted when tokens are transferred
+* [Refill](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/core-events#refill): Emitted when funds are deposited
+* [Transfer](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/events/core-events#transfer): Emitted when tokens are transferred
 
 ### Related Errors
 
-* [InsufficientBalance](broken-reference): When trying to withdraw more than available balance
-* [SafeTransferFailed](broken-reference): When token transfer fails
-* [OwnableUnauthorizedAccount](broken-reference): When non-owner tries to rescue funds
+* [InsufficientBalance](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#insufficientbalance): When trying to withdraw more than available balance
+* [SafeTransferFailed](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#safetransferfailed): When token transfer fails
+* [OwnableUnauthorizedAccount](https://app.gitbook.com/o/qmYNDgxzLtvTeLBHbPpz/s/crhGDzgi59PyfFaJtlVP/~/changes/67/protocol/error-codes#ownableunauthorizedaccount): When non-owner tries to rescue funds

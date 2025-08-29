@@ -327,7 +327,7 @@ unsubscribe(author: string): Promise<string>
 
 #### description
 
-This method gives you access to liquidation mechanism. More information [here](../../protocol/liquidations.md)
+This method gives you access to liquidation mechanism. More information [here](broken-reference)
 
 #### parameters
 

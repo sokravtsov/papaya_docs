@@ -1,5 +1,10 @@
+---
+hidden: true
+---
+
 # Future Development
 
+<mark style="color:red;">**TODO: пересмотреть или убрать**</mark>\
 Papaya is committed to continuous innovation and expansion to meet the evolving needs of businesses and users. Here are some of the key areas we are focusing on for future development:
 
 ***

@@ -6,6 +6,8 @@ Papaya is designed to operate seamlessly across multiple blockchain networks, pr
 
 ### **Currently Supported Networks**
 
+<mark style="color:red;">**TODO: дублируется**</mark>
+
 Papaya is deployed on the following major blockchain networks:
 
 * Ethereum

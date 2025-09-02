@@ -1,5 +1,7 @@
 # For Enterprises
 
+<mark style="color:red;">**TODO: удалить / оставить подписки**</mark>
+
 Papaya provides powerful solutions for enterprises to manage payments efficiently and at scale. Here are the key use cases:
 
 ***

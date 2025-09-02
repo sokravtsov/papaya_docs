@@ -1,5 +1,6 @@
 # Business Dashboard
 
+<mark style="color:red;">**TODO: убрать**</mark>\
 Papaya's business dashboard is your hub for managing subscriptions and payment streams. It provides powerful tools and insights to help businesses operate efficiently.
 
 ***

@@ -1,5 +1,10 @@
+---
+hidden: true
+---
+
 # Integration Steps
 
+<mark style="color:red;">**TODO: убрать дублирование**</mark>\
 This guide outlines the steps required to integrate Papaya into your business operations.
 
 ### **Step 1: Choose an Integration Method**

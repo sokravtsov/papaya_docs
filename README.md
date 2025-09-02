@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/forDocs-dark.gif" alt=""><figcaption></figcaption></figure>
 
-Papaya is an infrastructure for stablecoin payments that enables businesses to accept recurring payments and subscriptions in crypto. Our subscription protocol enables real-time balance calculations for any user without the need to iterate through all incoming streams. This means you can manage subscriptions for millions of users without enumerating each individul stream. The cost of collecting assets from millions of streams is as efficient as collecting from ten or a thousand streams.
+Papaya is an infrastructure for stablecoin subscriptions. It enables companies to accept recurring payments from millions of users and collect them in a single transaction, for less than $0.01 in gas. Our subscription protocol enables real-time balance calculations for any user without the need to iterate through all incoming streams. This means you can manage subscriptions for millions of users without enumerating each individul stream.&#x20;
 
 ### **Key Features**
 
@@ -12,24 +12,11 @@ Papaya is an infrastructure for stablecoin payments that enables businesses to a
 * **Stablecoin Integration**: Native support for USDT, USDC, and PYUSD.
 * **Non-Custodial Solution**: Direct wallet integration ensures user control over funds.
 * **Complete Transparency**: Monitor transactions in real time with full visibility.
+* **Cost-Efficient Collection:** Accept recurring payments from millions of users and collect them in a single transaction for less than $0.01 in gas
 
 ### **How It Works**
 
 {% embed url="https://youtu.be/Z_qZshl9hnY?si=PaArGF7U65l4QhpQ" %}
-
-#### **For Businesses**
-
-1. **Connect** your wallet to the Papaya protocol.
-2. **Access** the management dashboard for subscription and transaction tracking.
-3. **Integrate** the Papaya payment widget into your checkout system.
-4. **Start Accepting** streaming payments.
-
-#### **For Customers**
-
-1. **Select** Papaya as the payment method at checkout.
-2. **Connect** your crypto wallet (e.g., MetaMask).
-3. **Choose** a payment frequency (e.g., daily, weekly, monthly).
-4. **Activate** the subscription with a one-time gas fee.
 
 ### **Why Choose Papaya?**
 
@@ -37,6 +24,8 @@ Papaya is an infrastructure for stablecoin payments that enables businesses to a
 * **Scalability**: Designed to support millions of users without compromising performance.
 * **User Control**: Transparent, real-time streaming with full control over payments.
 * **Cost Savings**: Minimize transaction costs for both businesses and customers.
+* **Multi-Chain Ready:** Already live on 9+ blockchains with support for major stablecoins.
+* **Trusted Infrastructure:** Audited protocol, backed by founders of 1inch and STON.fi.
 
 {% content-ref url="getting-started/" %}
 [getting-started](getting-started/)

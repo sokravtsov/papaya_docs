@@ -1,5 +1,10 @@
+---
+hidden: true
+---
+
 # Go Live
 
+<mark style="color:red;">**TODO: убрать дублирование**</mark>\
 Congratulations on completing the setup and integration of Papaya! This guide will help you prepare for launching your payment system in production.
 
 ### **Step 1: Deploy to Production**

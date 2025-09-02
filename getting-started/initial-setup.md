@@ -1,5 +1,10 @@
+---
+hidden: true
+---
+
 # Initial Setup
 
+<mark style="color:red;">**TODO: убрать дублирование**</mark> \
 This section guides businesses through the initial steps required to start using Papaya.
 
 ### **Step 1: Contact the Papaya Team**

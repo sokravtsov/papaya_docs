@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Features
 
 Papaya offers powerful features that enable seamless and efficient subscription payment processing. Here's an overview of the core functionalities:
@@ -13,6 +17,8 @@ Papaya offers powerful features that enable seamless and efficient subscription 
 ***
 
 ### **Multi-Chain Support**
+
+<mark style="color:red;">**TODO: дублируется**</mark>
 
 * Operate on multiple blockchain networks, including:
   * Ethereum
@@ -39,6 +45,8 @@ Papaya offers powerful features that enable seamless and efficient subscription 
 
 ### **Business Dashboard**
 
+<mark style="color:red;">**TODO: посмотреть**</mark>&#x20;
+
 * Manage all payment streams in a centralized dashboard:
   * Real-time tracking of balances and payment flows.
   * Stream management tools to pause, resume, or cancel subscriptions.
@@ -49,10 +57,12 @@ Papaya offers powerful features that enable seamless and efficient subscription 
 
 ### **Security and Compliance**
 
+<mark style="color:red;">**TODO: интеграция с TRM Labs**</mark>
+
 * Fully audited by Stronghold Security.
 * Non-custodial by design, ensuring businesses and customers retain control over funds.
 * Compliance with ERC20 standards for token transactions.
-* Integrated with TRM Labs for security monitoring and fraud prevention.
+* Integrated with <mark style="color:yellow;">TRM Labs</mark> for security monitoring and fraud prevention.
 * KYB verification ensures a secure onboarding process for businesses.
 
 ***

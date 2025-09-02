@@ -1,5 +1,10 @@
+---
+hidden: true
+---
+
 # Use Cases
 
+<mark style="color:red;">**TODO: убрать**</mark>\
 Papaya is a versatile payment solution that caters to a wide range of industries and business models. Here are some of the key use cases:
 
 ***

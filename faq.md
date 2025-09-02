@@ -2,6 +2,7 @@
 
 ## **Frequently Asked Questions (FAQ)**
 
+\
 Find answers to the most common questions about Papaya.
 
 ***

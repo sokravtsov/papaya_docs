@@ -2,7 +2,9 @@
 
 <figure><img src=".gitbook/assets/forDocs-dark.gif" alt=""><figcaption></figcaption></figure>
 
-Papaya is an infrastructure for stablecoin subscriptions. It enables companies to accept recurring payments from millions of users and collect them in a single transaction, for less than $0.01 in gas. Our subscription protocol enables real-time balance calculations for any user without the need to iterate through all incoming streams. This means you can manage subscriptions for millions of users without enumerating each individul stream.&#x20;
+Papaya is an infrastructure for stablecoin subscriptions. It enables merchants to accept recurring payments from millions of users and collect them in a single transaction, for less than $0.01 in gas. Our subscription protocol enables real-time balance calculations for any user without the need to iterate through all incoming streams. This means you can manage subscriptions for millions of users without enumerating each individual subscription.&#x20;
+
+<figure><img src=".gitbook/assets/Papya (2).jpg" alt=""><figcaption></figcaption></figure>
 
 ### **Key Features**
 

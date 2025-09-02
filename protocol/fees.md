@@ -1,6 +1,6 @@
 # Overview
 
-Papaya is a streaming payment protocol that enables real-time token streaming between users. The protocol supports subscription-based payments, project management, and advanced features like BySig operations and sponsored calls
+Papaya Subscription Protocol is a streaming payment protocol that enables real-time token streaming between users. The protocol supports subscription-based payments, project management, and advanced features like BySig operations and sponsored calls
 
 ### Key Features
 

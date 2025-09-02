@@ -1,5 +1,6 @@
 ---
 description: This section covers the functions for managing project settings and fees.
+hidden: true
 ---
 
 # Project Management

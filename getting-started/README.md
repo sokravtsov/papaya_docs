@@ -6,7 +6,7 @@ Welcome to Papaya! This guide will help merchants set up and start using Papaya 
 
 #### **1. Initial Setup**
 
-* Submit Onboarding Form – Fill out the Google Form to share basic details about your project.
+* Submit Onboarding Form – Fill out the [Google Form](https://forms.gle/oNqsF13ZGefAKWfv6) to share basic details about your project.
 * Receive Project ID – After review, you’ll be assigned a unique Project ID.
 * Access Integration Options – Use your Project ID with the Papaya SDK or connect directly to our smart contracts.
 

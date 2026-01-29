@@ -69,3 +69,8 @@
   * [Formatting Functions](sdk/utilities/formatting-functions.md)
   * [TypeScript Types](sdk/utilities/typescript-types.md)
   * [Token Symbol](sdk/utilities/token-symbol.md)
+
+## API
+
+* [Main API](api/main-api.md)
+* [Meta API](api/meta-api.md)

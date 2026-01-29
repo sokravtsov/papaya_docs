@@ -1,8 +1,10 @@
+---
+description: >-
+  Browser-compatible JavaScript API client for Papaya crypto payments,
+  subscriptions, and revenue splits with no axios dependency.
+---
+
 # Main API
-
-Browser-compatible JavaScript API client for Papaya crypto payments, subscriptions, and revenue splits with no axios dependency.
-
-
 
 ✅ Works in modern browsers
 

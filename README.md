@@ -1,39 +1,30 @@
----
-hidden: true
----
+# Overview
 
-# Introduction
+Papaya Subscription Protocol is a streaming payment protocol that enables real-time token streaming between users. The protocol supports subscription-based payments, project management, and advanced features like BySig operations and sponsored calls
 
-<figure><img src=".gitbook/assets/forDocs-dark.gif" alt=""><figcaption></figcaption></figure>
+### Key Features
 
-Papaya is an infrastructure for stablecoin subscriptions. It enables merchants to accept recurring payments from millions of users and collect them in a single transaction, for less than $0.01 in gas. Our subscription protocol enables real-time balance calculations for any user without the need to iterate through all incoming streams. This means you can manage subscriptions for millions of users without enumerating each individual subscription.&#x20;
+* **Streaming Payments**: Real-time token streaming between users
+* **Subscription Management**: Create and manage payment subscriptions
+* **Project Management**: Multi-project support with custom settings
+* **Advanced Operations**: BySig, sponsored calls, and permit operations
+* **Liquidation System**: Automated liquidation for underfunded accounts
 
-<figure><img src=".gitbook/assets/Papya (2).jpg" alt=""><figcaption></figcaption></figure>
+### Documentation Structure
 
-### **Key Features**
+This documentation is organized into the following sections:
 
-* **Unlimited Subscriptions**: Handle thousands to millions of subscriptions with minimal transaction costs.
-* **Real-Time Payment Streaming**: Enable continuous cash flow for businesses.
-* **Multi-Chain Support**: Compatible with major blockchain networks (Ethereum, Polygon, BNB Chain, etc.).
-* **Stablecoin Integration**: Native support for USDT, USDC, and PYUSD.
-* **Non-Custodial Solution**: Direct wallet integration ensures user control over funds.
-* **Complete Transparency**: Monitor transactions in real time with full visibility.
-* **Cost-Efficient Collection:** Accept recurring payments from millions of users and collect them in a single transaction for less than $0.01 in gas
+* **Core Functions**: Basic deposit, withdraw, subscription, and payment operations
+* **Project Management**: Project settings and ownership management
+* **Advanced Features**: BySig operations, sponsored calls, and permit functionality
+* **View Functions**: Read-only functions for querying contract state
+* **Events**: Contract events for monitoring state changes
+* **Errors**: Error codes and their meanings
 
-### **How It Works**
+### Support
 
-{% embed url="https://youtu.be/Z_qZshl9hnY?si=PaArGF7U65l4QhpQ" %}
+For questions, issues or feature requests, please open an issue on our GitHub repository or contact us at [Papaya Community](https://t.me/PapayaCommunity/26037).
 
-### **Why Choose Papaya?**
+### Jump right in
 
-* **Efficiency**: Save on gas fees by bundling transactions.
-* **Scalability**: Designed to support millions of users without compromising performance.
-* **User Control**: Transparent, real-time streaming with full control over payments.
-* **Cost Savings**: Minimize transaction costs for both businesses and customers.
-* **Multi-Chain Ready:** Already live on 9+ blockchains with support for major stablecoins.
-* **Trusted Infrastructure:** Audited protocol, backed by founders of 1inch and STON.fi.
-
-{% content-ref url="getting-started/" %}
-[getting-started](getting-started/)
-{% endcontent-ref %}
-
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><i class="fa-screenpal">:screenpal:</i></h4></td><td><strong>Core Functions</strong></td><td></td><td></td><td><a href="protocol/advanced-section/">advanced-section</a></td></tr><tr><td><h4><i class="fa-bars-progress">:bars-progress:</i></h4></td><td><strong>Project Management</strong></td><td></td><td></td><td><a href="protocol/project-management.md">project-management.md</a></td></tr><tr><td><h4><i class="fa-graduation-cap">:graduation-cap:</i></h4></td><td><strong>Advanced Features</strong></td><td></td><td></td><td><a href="protocol/advanced-features/">advanced-features</a></td></tr><tr><td><h4><i class="fa-telescope">:telescope:</i></h4></td><td><strong>View Functions</strong></td><td></td><td></td><td><a href="protocol/view-functions/">view-functions</a></td></tr><tr><td><h4><i class="fa-calendar-exclamation">:calendar-exclamation:</i></h4></td><td><strong>Events</strong></td><td></td><td></td><td><a href="protocol/events/">events</a></td></tr><tr><td><h4><i class="fa-triangle-exclamation">:triangle-exclamation:</i></h4></td><td><strong>Errors</strong></td><td></td><td></td><td><a href="protocol/error-codes.md">error-codes.md</a></td></tr></tbody></table>

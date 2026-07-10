@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Glossary
 
 This glossary provides definitions of key terms and concepts used in the Papaya documentation.

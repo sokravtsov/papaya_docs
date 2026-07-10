@@ -1,5 +1,6 @@
 ---
 description: Interaction with the contract is facilitated through our SDK.
+hidden: true
 ---
 
 # Interaction
@@ -16,6 +17,6 @@ By abstract, we mean that no new tokens are created; instead, we mimic the token
 [subscriptions.md](protocol/advanced-section/subscriptions.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="https://app.gitbook.com/s/crhGDzgi59PyfFaJtlVP/sdk" %}
+[SDK](https://app.gitbook.com/s/crhGDzgi59PyfFaJtlVP/sdk)
 {% endcontent-ref %}

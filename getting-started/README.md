@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Getting Started
 
 Welcome to Papaya! This guide will help merchants set up and start using Papaya to accept stablecoin subscriptions.

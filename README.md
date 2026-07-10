@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Introduction
 
 <figure><img src=".gitbook/assets/forDocs-dark.gif" alt=""><figcaption></figcaption></figure>

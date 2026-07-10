@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # FAQ
 
 ## **Frequently Asked Questions (FAQ)**

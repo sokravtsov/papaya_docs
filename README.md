@@ -23,7 +23,7 @@ This documentation is organized into the following sections:
 
 ### Support
 
-For questions, issues or feature requests, please open an issue on our GitHub repository or contact us at [Papaya Community](https://t.me/PapayaCommunity/26037).
+For questions, issues or feature requests, please open an issue on our GitHub repository or [contact us](https://t.me/owlhootsgame)
 
 ### Jump right in
 

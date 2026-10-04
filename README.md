@@ -25,7 +25,7 @@ Both modes run on the same principles: a user funds a balance in the Papaya cont
 
 **Works on any EVM network.** The same protocol runs on Ethereum, BNB Chain, Polygon, Base, Arbitrum, Avalanche, Arc and other EVM networks. New networks can be added quickly.
 
-**Your stablecoin, no new asset.** Balances are held in the stablecoin the user deposited (USDC, USDT, PYUSD and others). Papaya does not issue a token.
+**Your stablecoin, no new asset.** Balances are held in the stablecoin the user deposited (USDC, USDT, PYUSD and others). Inside the contract they are tracked as an internal balance (for example ppUSDC), always backed one to one. Papaya does not create a new token standard.
 
 ## Who it is for
 

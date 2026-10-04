@@ -15,7 +15,7 @@ The SDK currently supports the following networks:
 | `scroll`    | 534352   | Scroll, an Ethereum L2 zk-rollup scaling solution           |
 | `arbitrum`  | 42161    | Arbitrum, an Ethereum L2 optimistic rollup scaling solution |
 | `mainnet`   | 1        | Ethereum mainnet                                            |
-| `sei`       | 32741    | Sei EVM, a high-performance EVM-compatible blockchain       |
+| `sei`       | 1329     | Sei EVM, a high-performance EVM-compatible blockchain       |
 | `zksync`    | 324      | zkSync Era, an Ethereum L2 zk-rollup scaling solution       |
 
 You can get a list of all supported networks programmatically:

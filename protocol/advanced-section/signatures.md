@@ -18,7 +18,7 @@ function liquidate(address account) external
 
 #### Description
 
-Allows anyone to liquidate an account that has insufficient funds to cover its streaming obligations. The liquidator receives a reward for performing the liquidation.
+Allows anyone to liquidate an account that has insufficient funds to cover its streaming obligations. The liquidator receives a reward for performing the liquidation. If the user has given an allowance, liquidate first tries to refill the balance. See [Balance, refill and liquidation.](../../overview/balance-refill-and-liquidation.md)
 
 #### Example
 

@@ -41,7 +41,7 @@ Papaya is the recurring payment rail. It is not a full billing system. Invoicing
 ## Next steps
 
 * [How it works](overview/how-it-works.md)
-* [subs](overview/subscription-modes.md)
+* [Subscription modes](overview/subscription-modes.md)
 * [Supported networks](overview/supported-networks.md)
 * For developers: [SDK overview](sdk/overview.md) and [Protocol reference](<README (1).md>)
 

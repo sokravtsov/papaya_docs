@@ -1,14 +1,26 @@
 # Table of contents
 
+## OVERVIEW
+
+* [Introduction](README.md)
+* [How it works](overview/how-it-works.md)
+* [Subscription modes](overview/subscription-modes.md)
+* [Balance, refill and liquidation](overview/balance-refill-and-liquidation.md)
+* [Gas and relayers](overview/gas-and-relayers.md)
+* [Security and custody](overview/security-and-custody.md)
+* [Supported networks](overview/supported-networks.md)
+* [Use cases](overview/use-cases.md)
+* [FAQ](overview/faq.md)
+* [Glossary](overview/glossary.md)
+
 ## Protocol
 
-* [Overview](README.md)
+* [Overview](<README (1).md>)
 * [Core Functions](protocol/advanced-section/README.md)
   * [Deposit & Withdraw](protocol/advanced-section/events.md)
   * [Subscription Management](protocol/advanced-section/subscriptions.md)
   * [Payment & Streaming](protocol/advanced-section/projects.md)
   * [Liquidation](protocol/advanced-section/signatures.md)
-* [Project Management](protocol/project-management.md)
 * [Advanced Features](protocol/advanced-features/README.md)
   * [BySig Operations](protocol/advanced-features/bysig-operations.md)
   * [Sponsored Calls](protocol/advanced-features/sponsored-calls.md)
@@ -24,28 +36,6 @@
   * [Subscription Events](protocol/events/subscription-events.md)
   * [Project Events](protocol/events/project-events.md)
 * [Error Codes](protocol/error-codes.md)
-
-***
-
-* [Introduction](<README (1).md>)
-* [Interaction](interaction.md)
-* [Getting Started](getting-started/README.md)
-  * [Initial Setup](getting-started/initial-setup.md)
-  * [Integration Steps](getting-started/integration-steps.md)
-  * [Go Live](getting-started/go-live.md)
-* [Features](features/README.md)
-  * [Real-Time Payment Streaming](features/real-time-payment-streaming.md)
-  * [Supported Networks](features/supported-networks.md)
-  * [Business Dashboard](features/business-dashboard.md)
-* [Use Cases](use-cases/README.md)
-  * [For Enterprises](use-cases/for-enterprises.md)
-  * [For Financial Services](use-cases/for-financial-services.md)
-  * [For Digital Economy](use-cases/for-digital-economy.md)
-* [FAQ](faq.md)
-* [Glossary](glossary.md)
-* [Future Development](future-development.md)
-* [Introduction](readme/README.md)
-  * [Overview](readme/overview.md)
 
 ## SDK
 
@@ -77,9 +67,3 @@
 * [Main API](api/main-api.md)
 * [Meta API](api/meta-api.md)
 * [API Reference](api/api-reference.md)
-
-## Invoice <a href="#api" id="api"></a>
-
-* [Overview](api-1/overview.md)
-* [API Reference](api-1/api-reference.md)
-* [Webhook](api-1/webhook.md)

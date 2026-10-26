@@ -19,7 +19,7 @@ The contracts have no pause function and are not upgradeable. Rules cannot be ch
 ## Risks to understand
 
 * **Smart contract risk.** All balances for a stablecoin on a network sit in one contract. A bug in that contract would affect all of them.
-* **Liquidation.** In streaming mode, if a balance runs out and cannot be refilled, the remaining balance goes to whoever liquidates the account. Keep balances funded or set up an allowance for refill.
+* **Liquidation.** If a balance runs low and cannot be refilled, the account is liquidated: some or all of its subscriptions are cancelled so the balance can cover what remains. The caller receives a reward of about $0.01 to cover gas, and the rest of the balance stays with the user. Keep balances funded or set up an allowance for refill.
 * **Price feeds.** In streaming mode, liquidation thresholds and refill rewards use Chainlink price feeds for the gas token and the stablecoin.
 * **Stablecoin risk.** Papaya holds balances in the deposited stablecoin and inherits its risks (issuer, depeg, freezing).
 

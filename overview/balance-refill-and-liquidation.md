@@ -25,12 +25,8 @@ Both happen through one function, `liquidate(account)`, which anyone can call on
 
 When `liquidate` is called, the contract first tries to refill:
 
-* **If the user's wallet has an allowance and enough funds**, the contract pulls a refill and the subscriptions keep running.
-  * Streaming: the refill covers about 30 days of net outgoing payments.
-  * Periodic: the refill covers one period.
-  * The caller receives a small reward from the refill to cover their gas. In streaming, the reward is based on the current network gas price. In periodic, it is a small fixed amount.
-* **If refill is not possible** (no allowance or not enough funds in the wallet), the account is liquidated:
-  * If refill is not possible (no allowance or not enough funds in the wallet), the account is liquidated: some or all of its subscriptions are cancelled so the balance can cover what remains. The caller receives a reward of about $0.01 to cover gas, and the rest of the balance stays with the user.
+* **If the user's wallet has an allowance and enough funds**, the contract pulls a refill that covers the next period, and the subscriptions keep running. The caller receives a reward of about $0.01 to cover gas.
+* **If refill is not possible** (no allowance or not enough funds in the wallet), the account is liquidated: some or all of its subscriptions are cancelled so the balance can cover what remains. The caller receives a reward of about $0.01 to cover gas, and the rest of the balance stays with the user.
 
 **Why anyone can call it**
 

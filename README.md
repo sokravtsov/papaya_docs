@@ -13,7 +13,7 @@ A subscription is opened once onchain and keeps running until it is changed or c
 Papaya supports two subscription modes:
 
 * **Streaming.** Value moves continuously, second by second. Good for usage-based pricing, AI agents and high-frequency flows like hourly DCA.
-* **Periodic** (preview). A fixed amount per period, charged at the start of the period, the way a card subscription works. $10 this month, $10 next month.
+* **Periodic**. A fixed amount per period, charged at the start of the period, the way a card subscription works. $10 this month, $10 next month.
 
 Both modes run on the same principles: a user funds a balance in the Papaya contract, subscriptions draw from that balance, and the merchant withdraws what has accrued whenever they want.
 

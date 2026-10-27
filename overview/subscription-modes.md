@@ -28,11 +28,7 @@ In streaming mode a subscription has a **rate**: an amount per second. Value mov
 * High-frequency flows such as hourly DCA, where per-transaction billing would be too expensive.
 * Payroll-like streams to a single recipient.
 
-## Periodic (preview)
-
-{% hint style="info" %}
-Periodic subscriptions are in preview. Details may change before general availability.
-{% endhint %}
+## Periodic
 
 In periodic mode a subscription has a **fixed amount per period**, for example $10 per month. This is the format finance teams and card subscriptions already use.
 
@@ -59,7 +55,7 @@ If the author is a smart contract, Papaya calls it when a subscription is create
 
 ## Comparison
 
-|                         | Streaming                   | Periodic (preview)                  |
+|                         | Streaming                   | Periodic                            |
 | ----------------------- | --------------------------- | ----------------------------------- |
 | Unit                    | Amount per second           | Amount per period                   |
 | First payment           | Starts accruing immediately | Full period charged at subscription |

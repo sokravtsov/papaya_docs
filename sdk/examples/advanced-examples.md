@@ -190,7 +190,7 @@ function getChainId(network: NetworkName): number {
     scroll: 534352,
     arbitrum: 42161,
     mainnet: 1,
-    sei: 32741,
+    sei: 1329,
     zksync: 324
   };
   
